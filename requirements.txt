@@ -1,0 +1,10 @@
+celery
+redis
+flask-restful
+requests
+marshmallow_sqlalchemy
+flask_sqlalchemy
+flask
+flask-cors
+sqlalchemy
+uuid
