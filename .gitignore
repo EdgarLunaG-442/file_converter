@@ -2,3 +2,5 @@
 data/input/*
 data/output/*
 data/test.db
+!data/input/.gitkeep
+!data/output/.gitkeep
